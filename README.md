@@ -1,2 +1,2 @@
 # restaurant-visitor
-Case study for WhatsBusy internship program
+This is a repository which contains my solution for the case study for WhatsBusy internship program.
